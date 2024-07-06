@@ -1,28 +1,27 @@
 {
   "filters": {
-    "totalEntries": {},
+    "totalEntries": {1},
     "properties": {
       "1": {
-        "unit": {},
-        "numberOfFilters": {},
+        "unit": {PItest},
+        "numberOfFilters": {2},
         "locations": {
-          "1": {},
-          "2": {}
+          "1": {Ground Level near entry, 12x12},
+          "2": {L2 kitchen wall, 14x30}
         }
       }
     }
   },
   "fireSaftey": {
-    "totalEntries": {},
+    "totalEntries": {1},
     "properties": {
       "1": {
-        "unit": {},
-        "numberOfSmoke": {
-          "expiration": {},
-          "lastBatteryChange": {}
-        },
-        "numberOfFireextinguishers": {
-          "expiration": {}
+        "unit": {PItest},
+        "numberOfSmoke": {2}
+          "expiration": {2023},
+          "lastBatteryChange": {2021}
+        "numberOfFireextinguishers": {{1}
+          "expiration": {2024}
         }
       }
     }
