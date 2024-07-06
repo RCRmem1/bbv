@@ -1,13 +1,13 @@
 {
   "filters": {
-    "totalEntries": "1",
+    "totalEntries": "268",
     "properties": {
       "1": {
-        "unit": "PItest",
-        "numberOfFilters": "2",
+        "unit": "102",
+        "numberOfFilters": "WIP- 2",
         "locations": {
           "1": "Ground Level near entry, 12x12",
-          "2": "L2 kitchen wall, 14x30"
+          "2": "L2 Kitchen Ceiling, 14x30"
         }
       }
     }
