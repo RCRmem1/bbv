@@ -1,2 +1,30 @@
-filters
-fnf
+{
+  "filters": {
+    "totalEntries": {},
+    "properties": {
+      "1": {
+        "unit": {},
+        "numberOfFilters": {},
+        "locations": {
+          "1": {},
+          "2": {}
+        }
+      }
+    }
+  },
+  "fireSaftey": {
+    "totalEntries": {},
+    "properties": {
+      "1": {
+        "unit": {},
+        "numberOfSmoke": {
+          "expiration": {},
+          "lastBatteryChange": {}
+        },
+        "numberOfFireextinguishers": {
+          "expiration": {}
+        }
+      }
+    }
+  }
+}
