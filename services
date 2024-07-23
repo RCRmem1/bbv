@@ -2,26 +2,26 @@
 "1": {
     "lastFSinspection": {
       "smokeO2DetectorTotal": {
-        "smoke": {
-          "locations": {},
-          "expiration": {},
-          "batteriesLastChanged": {}
+        "smoke": { "3"
+          "locations": {"L3 Living room, L2 Hall, L1 Game room"},
+          "expiration": {"2026"},
+          "batteriesLastChanged": {"July 1 2024"}
         },
         "o2": {
-          "locations": {},
-          "expiration": {},
-          "battiesLastChanged": {}
+          "locations": {"N/A"},
+          "expiration": {"N/A"},
+          "battiesLastChanged": {"N/A"}
         }
       }
     },
-    "lastSecurityCheck": {
-      "issues": {}
+    "lastSecurityCheck": { "Aug 1, 2023"
+      "issues": {"none"}
     },
     "filters": {
-      "inProgram": {},
-      "lastChanged": {},
-      "total": {},
-      "locations": {}
+      "inProgram": {"no"},
+      "lastChanged": {"unknown"},
+      "total": {"2"},
+      "locations": {"L3 Hall, L1 master bedroom"}
     }
   },
   "102": {
