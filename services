@@ -1,13 +1,15 @@
 {
 "1": {
     "lastFSinspection": {
-      "smokeO2DetectorTotal": {
+      "smokeO2Detectors": {
         "smoke": {
+          "total": {},
           "locations": {},
           "expiration": {},
           "batteriesLastChanged": {}
         },
         "o2": {
+          "total": {},
           "locations": {},
           "expiration": {},
           "battiesLastChanged": {}
@@ -15,6 +17,7 @@
       }
     },
     "lastSecurityCheck": {
+      "date": {},
       "issues": {}
     },
     "filters": {
