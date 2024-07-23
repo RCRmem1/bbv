@@ -1,6 +1,9 @@
 {
 "1": {
     "lastFSinspection": {
+      "completedOn": {},
+      "tech": {},
+
       "smokeO2Detectors": {
         "smoke": {
           "total": {},
