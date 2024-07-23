@@ -1,5 +1,5 @@
 {
-"1,Ships Chandler": {
+"1": {
     "lastFSinspection": {
       "smokeO2DetectorTotal": {
         "smoke": {
@@ -24,7 +24,7 @@
       "locations": {}
     }
   },
-  "102,Summers Getaway": {
+  "102": {
     "lastFSinspection": {
       "smokeO2DetectorTotal": {
         "smoke": {
